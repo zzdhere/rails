@@ -1,0 +1,2 @@
+module Attach::AttachHelper
+end
